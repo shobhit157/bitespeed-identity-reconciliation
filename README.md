@@ -1,4 +1,4 @@
-## Bitespeed Identity App API
+## Bitespeed Identify App API
 
 ### Base URL
 
